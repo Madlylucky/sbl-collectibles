@@ -1888,6 +1888,14 @@ main {
     flex: 1 0 auto
 }
 
+.caraousel {
+    margin-left: 340px;
+}
+
+.caraousel-text {
+    margin-left: 80px;
+}
+
 .section-inner {
     position: relative;
     padding-top: 48px;
