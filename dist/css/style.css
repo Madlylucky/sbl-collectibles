@@ -1888,6 +1888,17 @@ main {
     flex: 1 0 auto
 }
 
+.caraousel {
+    background-image: url("dist\images\stacked-waves-haikei(1).svg")
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.caraousel .elfsight-app-032b8b98-9e08-4914-8d22-882229e5ab35 {
+    margin-left: 300px; 
+}
+
 .caraousel-text {
     margin-left: 80px;
 }
